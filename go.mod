@@ -38,7 +38,7 @@ require (
 	github.com/xanzy/go-gitlab v0.50.4
 	go.temporal.io/api v1.44.1
 	go.temporal.io/sdk v1.13.1
-	golang.org/x/oauth2 v0.22.0
+	golang.org/x/oauth2 v0.27.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240827150818-7e3bb234dfed
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240827150818-7e3bb234dfed
 	google.golang.org/grpc v1.66.0
